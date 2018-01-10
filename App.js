@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { Text, View } from 'react-native'
+import Menulist from './src/components/MenuList'
 
 export default class App extends Component {
   render() {
